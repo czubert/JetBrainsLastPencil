@@ -407,54 +407,9 @@ files:
         LastPencilTest().run_tests()
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/20067#comment
-status: Failed
+status: Solved
 feedback:
-  message: |-
-    Wrong answer in test #17
-
-    After inputting number of pencils, that John has taken, there should be printed exactly 5 non-empty lines in such order:
-    2 for Jack
-    1 for Jack's move
-    2 for John
-
-    Please find below the output of your program during this failed test.
-    Note that the '>' character indicates the beginning of the input line.
-
-    ---
-
-    How many pencils would you like to use: > 3
-    Who will be the first (John, Jack): > JohnJack
-    Choose between *John* and *Jack*
-    Who will be the first (John, Jack): > JohnJack
-    Choose between *John* and *Jack*
-    Who will be the first (John, Jack): > JohnJack
-    Choose between *John* and *Jack*
-    Who will be the first (John, Jack): > JohnJack
-    Choose between *John* and *Jack*
-    Who will be the first (John, Jack): > JohnJack
-    Choose between *John* and *Jack*
-    Who will be the first (John, Jack): > John
-    |||
-    John's turn (you can go 1,2 or 3): > 4
-    Possible values: '1', '2' or '3'
-    John's turn (you can go 1,2 or 3): > a
-    Possible values: '1', '2', '3'
-    John's turn (you can go 1,2 or 3): > 0
-    Possible values: '1', '2' or '3'
-    John's turn (you can go 1,2 or 3): > -1
-    Possible values: '1', '2' or '3'
-    John's turn (you can go 1,2 or 3): > _
-    Possible values: '1', '2', '3'
-    John's turn (you can go 1,2 or 3): > |
-    Possible values: '1', '2', '3'
-    John's turn (you can go 1,2 or 3): > |||||
-    Possible values: '1', '2', '3'
-    John's turn (you can go 1,2 or 3): > 1
-    ||
-    not random
-    Jack's turn:
-    1
-    |
-    John's turn (you can go 1,2 or 3):
-  time: Mon, 26 Sep 2022 04:13:47 UTC
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
+    Academy</a> to continue learning.
+  time: Mon, 26 Sep 2022 04:18:23 UTC
 record: -1
