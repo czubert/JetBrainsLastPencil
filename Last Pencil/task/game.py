@@ -37,11 +37,13 @@ def bot(number):
     if number == 1:
         turn = 1
     elif (number - 1) % 4 != 0:
+        print('not random')
         pattern = (number - 1) // 4
 
         turn = number - (pattern * 4 + 1)
     else:
-        turn = random.randint(0, 3)
+        print('random')
+        turn = random.randint(1, 3)
 
     print(f'Jack\'s turn:')
     print(f'{turn}')
